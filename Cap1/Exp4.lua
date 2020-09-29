@@ -1,0 +1,5 @@
+--以下字符串中哪些是有效的标识符？
+--
+---
+--_end End end until? nil NULL one-step
+--不是关键字的都有效
